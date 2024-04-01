@@ -1,0 +1,16 @@
+C:\Users\stegm\source\repos\delaunay triangulation\delaunay triangulation\bin\Debug\net8.0-windows\delaunay triangulation.exe
+C:\Users\stegm\source\repos\delaunay triangulation\delaunay triangulation\bin\Debug\net8.0-windows\delaunay triangulation.deps.json
+C:\Users\stegm\source\repos\delaunay triangulation\delaunay triangulation\bin\Debug\net8.0-windows\delaunay triangulation.runtimeconfig.json
+C:\Users\stegm\source\repos\delaunay triangulation\delaunay triangulation\bin\Debug\net8.0-windows\delaunay triangulation.dll
+C:\Users\stegm\source\repos\delaunay triangulation\delaunay triangulation\bin\Debug\net8.0-windows\delaunay triangulation.pdb
+C:\Users\stegm\source\repos\delaunay triangulation\delaunay triangulation\obj\Debug\net8.0-windows\delaunay_triangulation.Form1.resources
+C:\Users\stegm\source\repos\delaunay triangulation\delaunay triangulation\obj\Debug\net8.0-windows\delaunay triangulation.csproj.GenerateResource.cache
+C:\Users\stegm\source\repos\delaunay triangulation\delaunay triangulation\obj\Debug\net8.0-windows\delaunay triangulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stegm\source\repos\delaunay triangulation\delaunay triangulation\obj\Debug\net8.0-windows\delaunay triangulation.AssemblyInfoInputs.cache
+C:\Users\stegm\source\repos\delaunay triangulation\delaunay triangulation\obj\Debug\net8.0-windows\delaunay triangulation.AssemblyInfo.cs
+C:\Users\stegm\source\repos\delaunay triangulation\delaunay triangulation\obj\Debug\net8.0-windows\delaunay triangulation.csproj.CoreCompileInputs.cache
+C:\Users\stegm\source\repos\delaunay triangulation\delaunay triangulation\obj\Debug\net8.0-windows\delaunay triangulation.dll
+C:\Users\stegm\source\repos\delaunay triangulation\delaunay triangulation\obj\Debug\net8.0-windows\refint\delaunay triangulation.dll
+C:\Users\stegm\source\repos\delaunay triangulation\delaunay triangulation\obj\Debug\net8.0-windows\delaunay triangulation.pdb
+C:\Users\stegm\source\repos\delaunay triangulation\delaunay triangulation\obj\Debug\net8.0-windows\delaunay triangulation.genruntimeconfig.cache
+C:\Users\stegm\source\repos\delaunay triangulation\delaunay triangulation\obj\Debug\net8.0-windows\ref\delaunay triangulation.dll
